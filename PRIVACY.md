@@ -1,6 +1,6 @@
 # SubPulse — Privacy Policy
 
-_Last updated: 2026-10-17 · Developer: Appia Labs · Contact: subpulse@appialabs.com_
+_Last updated: 2026-10-18 · Developer: Appia Labs · Contact: subpulse@appialabs.com_
 
 SubPulse is a local-first subscription tracker. **We do not run a server that stores your data, there is no account, no advertising and no analytics SDK.**
 
@@ -15,6 +15,7 @@ Only the minimum needed for a feature, and never your subscription data:
 | Purchases (SubPulse Pro) | Anonymous purchase and entitlement information handled by Google Play / App Store and RevenueCat | RevenueCat, Inc. |
 | Live currency rates (Pro) | A request for public reference rates (no personal data) | Frankfurter (ECB reference rates) |
 | "Web" icons | The web address you typed, to download that site's icon | That website, or a public favicon service |
+| Catalog services without a bundled logo | The official web address of the service you picked, to download its icon once and store it on your phone | That service's website, or a public favicon service |
 | Catalog updates | A request for a static public file | Appia Labs static host |
 | "Request a logo" | An email you send yourself (you see and approve it) | subpulse@appialabs.com |
 
