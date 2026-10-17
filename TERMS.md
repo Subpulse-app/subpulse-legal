@@ -17,7 +17,7 @@ Reminders are scheduled locally by your operating system. They can be delayed or
 The catalog, logos, typical prices and cancel links are provided for convenience to help you identify services. Brand names and logos belong to their owners; SubPulse is not affiliated with or endorsed by them. Information may be out of date. SubPulse does not cancel subscriptions on your behalf.
 
 ## 5. SubPulse Pro
-Pro is an optional auto-renewing subscription sold through Google Play or the App Store (annual with a 3-day free trial, or weekly). Payment is charged to your store account; it renews automatically unless cancelled at least 24 hours before the end of the current period. Manage or cancel it in your store account settings. Refunds are handled by the store under its policies. Uninstalling the app does not cancel the subscription.
+Pro is an optional auto-renewing subscription sold through Google Play or the App Store (annual with a 7-day free trial, or monthly). Payment is charged to your store account; it renews automatically unless cancelled at least 24 hours before the end of the current period. Manage or cancel it in your store account settings. Refunds are handled by the store under its policies. Uninstalling the app does not cancel the subscription.
 
 If Pro ends, your data is kept: subscriptions beyond the free limit become read-only, and Pro-only features (widgets, trial alerts, exports, live currencies, extra themes) turn off.
 
